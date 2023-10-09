@@ -1,0 +1,2 @@
+# Crypco
+Crypto currency
